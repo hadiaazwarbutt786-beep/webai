@@ -1,0 +1,19 @@
+{
+  "name": "stitch-gulabi-glow-lip-gloss-store",
+  "version": "1.0.0",
+  "description": "Gulabi Glow - Luxe Lip Nectar E-commerce Store",
+  "main": "index.html",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File ./server.ps1",
+    "dev": "powershell -ExecutionPolicy Bypass -File ./server.ps1"
+  },
+  "keywords": [
+    "lip-gloss",
+    "beauty",
+    "ecommerce",
+    "tailwind",
+    "atelier"
+  ],
+  "author": "Gulabi Glow Beauty Atelier",
+  "license": "MIT"
+}
